@@ -1,0 +1,26 @@
+select.goog-te-combo {
+    /* padding: 10px; */
+    border: none;
+    /* padding: 15px 0 18px; */
+    font-size: 14px;
+    /* color: #fff; */
+    font-family: rubik,sans-serif;
+    font-weight: 500;
+    text-transform: capitalize;
+    margin-left: 0px;
+    margin-top: 0;
+    border-top: 3px solid transparent;
+    -webkit-transition: all .3s ease-in-out 0s;
+    -moz-transition: all .3s ease-in-out 0s;
+    transition: all .3s ease-in-out 0s;
+    color: #333!important;
+}
+
+
+.goog-te-gadget {
+    font-family: arial;
+    font-size: 11px;
+   color: rgba(255, 255, 255, 0) !important;
+    white-space: nowrap;
+    max-height: 12px;
+}
